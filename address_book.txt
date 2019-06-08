@@ -1,0 +1,24 @@
+Bill Gates	bill@microsoft.com	(111) 222-3333
+Larry Ellison	larry@sun.com	(444) 555-6666
+Steve Jobs	steve@apple.com	777-888-9999
+Grace Hopper	grace@hopper.com	800-221-5528
+pooja	poojaa.s301@gmail.om	815-517-6453'	
+pooja	poojaa.s301@gmail.com	815-517-6453	
+pooja	poojaa.s301@gmail.com	8155176453	
+name	poojaa@gmail	poojaa@gmail.	
+name	name@gmail.com	1234567890	
+name	name@gmail.com	1234567890	
+name	name@yahoo.com	8155176453	
+pooja	poojaa@gmail.com	8155176453	
+pooja	pooja@gmail.com	8155176453	
+pooja	pooja@gmail.com	8155176453	
+pooja	example@gmail.com	8155176453	
+pavan	poo@gmail.com	1234567890	
+pooja	poo@g.com	9012345678	
+pooja	poo@gmail.com	8155176453	
+rohan	rohan-nammi.14@yahoo.com	9849180843	
+lait	lalit@g.com	1234567890	
+jane	jame@gmail.com	8155176453	
+p	p@g.com	1234567890	
+p	p@g.com	1234567899	
+ap.-	p@g.com	8155176453	
